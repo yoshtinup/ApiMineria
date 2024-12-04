@@ -8,9 +8,9 @@ CORS(app)
 
 # Configuración de conexión a la base de datos
 db_config = {
-    'host': 'localhost',
-    'user': 'root',
-    'password': '',
+    'host': '98.83.245.96',
+    'user': 'yosh',
+    'password': 'yosh123',
     'database': 'data'
 }
 
